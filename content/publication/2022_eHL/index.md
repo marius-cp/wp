@@ -2,7 +2,7 @@
 title: "A safe Hosmer-Lemeshow test"
 authors:
 - DHPZ2022
-doi: "https://doi.org/10.48550/arXiv.2203.00426"
+doi: ""
 
 
 # Schedule page publish date (NOT publication's date).
@@ -21,11 +21,13 @@ publication_short: ""
 abstract: This technical report proposes an alternative to the Hosmer-Lemeshow (HL) test for evaluating the calibration of probability forecasts for binary events. The approach is based on e-values, a new tool for hypothesis testing. An e-value is a random variable with expected value less or equal to 1 under a null hypothesis. Large e-values give evidence against the null hypothesis, and the multiplicative inverse of an e-value is a p-value. In a simulation study, the proposed e-values detect even slight miscalibration for larger sample sizes, but with a reduced power compared to the original HL test.
 
 
-# links:
-# - name: ""
-#   url: ""
-url_preprint: https://arxiv.org/pdf/2203.00426.pdf
-url_code: 'https://github.com/marius-cp/eHL'
+links:
+- name: arXiv Preprint
+  url:  https://arxiv.org/pdf/2203.00426.pdf
+- name: Replication Code 
+  url:  https://github.com/marius-cp/eHL
+url_preprint: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

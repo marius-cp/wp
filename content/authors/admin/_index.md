@@ -45,4 +45,4 @@ email: ''
 highlight_name: no
 ---
 
-I am a PhD Student in Econometrics and Statistics at the University of Hohenheim. Further, I am affiliated with the Computational Science Lab of the University of Hohenheim. 
+I am a PhD student at the Department of Econometrics and Statistics at the University of Hohenheim. Also, I am affiliated with the Computational Science Lab at the University of Hohenheim. 

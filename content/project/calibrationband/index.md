@@ -11,7 +11,9 @@ image:
   preview: true
 
 links:
-url_code: "https://github.com/marius-cp/calibrationband"
+- name: Development version
+  url:  https://github.com/marius-cp/calibrationband
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
