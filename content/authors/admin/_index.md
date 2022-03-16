@@ -32,8 +32,8 @@ social:
 #  label: Follow me on Twitter
 #  display:
 #    header: no
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=lfq-zvcAAAAJ&hl=de
 - icon: github
   icon_pack: fab
@@ -45,4 +45,5 @@ email: ''
 highlight_name: no
 ---
 
-I am a PhD student at the Department of Econometrics and Statistics at the University of Hohenheim. Also, I am affiliated with the Computational Science Lab at the University of Hohenheim. 
+I am a PhD student at the Department of [Econometrics and Statistics](https://econometrics.uni-hohenheim.de/en) at the University of Hohenheim. 
+My doctoral thesis focuses on assessing point and probability forecasts in economics and finance.

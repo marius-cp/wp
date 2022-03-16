@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Marius Puke # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: "https://marius-puke.netlify.app/"  # 'https://academic-demo.netlify.app/' # Website URL
+copyright: '© 2022 Me' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
