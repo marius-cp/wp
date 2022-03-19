@@ -22,7 +22,7 @@ abstract: This technical report proposes an alternative to the Hosmer-Lemeshow (
 
 
 links:
-- name: arXiv Preprint
+- name: arXiv Technical Report
   url:  https://arxiv.org/pdf/2203.00426.pdf
 - name: Replication Code 
   url:  https://github.com/marius-cp/eHL
