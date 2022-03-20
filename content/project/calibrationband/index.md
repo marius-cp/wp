@@ -1,6 +1,6 @@
 ---
-title: R package `calibrationbands`
-summary: An R package to assess calibration of binary outcome predictions. Authored jointly with [Timo Dimitriadis](https://sites.google.com/view/timodimitriadis) and  [Alexander Henzi](https://www.imsv.unibe.ch/ueber_uns/personen/henzi_alexander/index_ger.html). Available via GitHub.
+title: R package "calibrationband"
+summary: An R package to assess calibration of binary outcome predictions. Authored jointly with [Timo Dimitriadis](https://sites.google.com/view/timodimitriadis) and  [Alexander Henzi](https://www.imsv.unibe.ch/ueber_uns/personen/henzi_alexander/index_ger.html). 
 
 date: "2020-03-07T00:00:00Z"
 
@@ -11,7 +11,7 @@ image:
   preview: true
 
 links:
-- name: Development version
+- name: "GitHub: development version"
   url:  https://github.com/marius-cp/calibrationband
 url_code: ""
 url_pdf: ""
