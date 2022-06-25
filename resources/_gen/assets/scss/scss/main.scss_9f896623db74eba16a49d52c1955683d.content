@@ -9520,3 +9520,6 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+.portrait-title h2 {
+  font-size: 1.5rem; }
