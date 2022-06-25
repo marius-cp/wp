@@ -22,6 +22,8 @@ abstract: This technical report proposes an alternative to the Hosmer-Lemeshow (
 
 
 links:
+- name: Info
+  url: publication/2022_ehl
 - name: arXiv Technical Report
   url:  https://arxiv.org/pdf/2203.00426.pdf
 - name: Replication Code 
@@ -43,3 +45,9 @@ url_video: ''
 projects: []
 ---
 
+
+**Presentations at conferences and seminars** <br>
+<small>
+<em>05/2021</em> CORP Meeting Series, Heidelberger Insitut für Theoretische Studien <br>
+<em>04/2021</em> Econometrics Seminar, University of Hohenheim <br>
+</small>

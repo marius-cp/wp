@@ -21,7 +21,10 @@ publication_short: ""
 abstract:   If an event is predicted to occur with probability $x$, it should materialize with approximately that frequency, which means that the so-called calibration curve $p(x)$ should equal the bisector for all $x$ in the unit interval. We propose honest calibration assessment based on novel confidence bands for the calibration curve, which are valid only subject to the natural assumption of isotonicity. Besides testing the classical goodness-of-fit null hypothesis of perfect calibration, our bands facilitate inverted goodness-of-fit tests whose rejection allows for the sought-after conclusion of a sufficiently well specified model. We show that our bands have a finite sample coverage guarantee, are narrower than existing approaches, and adapt to the local smoothness and variance of the calibration curve $x$. In an application to model predictions of an infant having a low birth weight, the bounds give informative insights on model calibration
 
 
+
 links:
+- name: Info
+  url: publication/2022_hcvbp
 - name: arXiv Preprint
   url:  https://arxiv.org/pdf/2203.04065.pdf
 - name: Replication Code
@@ -42,5 +45,19 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects: []
 #- calibrationband
+
 ---
+
+**Presentations at conferences and seminars** <br>
+<small>
+<em>09/2022 (scheduled)</em>  Statistische Woche, University of Münster <br>
+<em>07/2022 (scheduled)</em>  [International Symposium on Forecasting](https://forecasters.org/events/symposium-on-forecasting/), University of Oxford <br>
+<em>02/2022</em>  [Macro & Econometrics Seminar](https://www.awi.uni-heidelberg.de/forschung/macroeconometricsem_en.html), Heidelberg University <br>
+<em>01/2022</em> Econometrics Seminar, University of Hohenheim <br>
+<em>10/2021</em> HiBeKi Workshop, University of Bern*
+ <br>
+  <br>
+<em>(* presented by coauthor)</em>
+</small>
+
 
