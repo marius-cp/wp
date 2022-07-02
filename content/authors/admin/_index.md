@@ -46,4 +46,4 @@ highlight_name: no
 ---
 
 I am a PhD student at the Department of [Econometrics and Statistics](https://econometrics.uni-hohenheim.de/en) at the University of Hohenheim. 
-My doctoral thesis focuses on assessing point and probability forecasts in economics and finance.
+My doctoral thesis focuses on assessing point and probability forecasts in economics and finance. In July 2022, I joined the [Computational Statistics](https://www.h-its.org/research/cst/) group of the Heidelberg Institute for Theoretical Studies as a visiting scientist. 
